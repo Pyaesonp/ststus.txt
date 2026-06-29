@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "version": "1.0",
+  "token": "A9X3K-2026"
+}
